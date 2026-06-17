@@ -38,7 +38,7 @@ AI 기술을 활용한 서비스 개발을 공부하고 있습니다.
 
 ---
 
-### 💊 [범부 (Venvoo)](https://github.com/ming2tofu33/pjt-sprint_ai07_healthcare)
+### 💊 [밤부 (Venvoo)](https://github.com/ming2tofu33/pjt-sprint_ai07_healthcare)
 
 의료 이미지 내 약(Pill) 객체 탐지를 위한 Object Detection 프로젝트
 
