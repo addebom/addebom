@@ -6,7 +6,7 @@
 
 **AI Service · Data Quality · Product Flow · Content Structure**
 
-복지, 콘텐츠 제작, 서비스 출시, AI 프로젝트 경험을 바탕으로
+복지, 콘텐츠 제작, 서비스 출시, AI 프로젝트 경험을 바탕으로<br>
 사람의 불편함을 발견하고, 정보를 구조화하며, 기술로 해결하는 방법을 공부하고 있습니다.
 
 </div>
