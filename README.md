@@ -45,7 +45,7 @@
 
 ## Main Projects
 
-## 준비해여행
+## [준비해여행](https://github.com/addebom/ready-trip-portfolio)
 
 ### 여행 준비 체크리스트 서비스
 
